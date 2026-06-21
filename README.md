@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,100:0D1B2A&height=200&section=header&text=Olá,%20eu%20sou%20[Marcos Leandro Santos]&fontSize=38&fontColor=00D4FF&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Dados%20em%20formação%20%7C%20Construindo%20uma%20carreira%20em%20dados&descAlignY=58&descColor=94A3B8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,100:0D1B2A&height=200&section=header&text=Olá,%20eu%20sou%20Marcos%20Leandro&fontSize=38&fontColor=00D4FF&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Dados%20em%20formação%20%7C%20Construindo%20uma%20carreira%20em%20dados&descAlignY=58&descColor=94A3B8" width="100%"/>
 
 </div>
 
@@ -27,7 +27,7 @@ Aqui no GitHub você vai encontrar projetos reais, em progresso constante — se
 </td>
 <td valign="top" width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&text_color=94A3B8&icon_color=7C3AED&bg_color=00000000" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mleandr18&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&text_color=94A3B8&icon_color=7C3AED&bg_color=00000000" width="100%"/>
 
 </td>
 </tr>
@@ -96,22 +96,22 @@ Aqui no GitHub você vai encontrar projetos reais, em progresso constante — se
 <th align="left">Stack</th>
 </tr>
 <tr>
-<td><strong><a href="https://github.com/Mleandr18">Análise Exploratória — [Tema]</a></strong></td>
+<td><strong><a href="https://github.com/Mleandr18/projeto-1">Análise Exploratória — [Tema]</a></strong></td>
 <td>EDA completa em dataset público, com tratamento de dados sujos (porque dado limpo só existe em curso) e visualizações que contam uma história.</td>
 <td>Python · Pandas · Seaborn</td>
 </tr>
 <tr>
-<td><strong><a href="https://github.com/Mleandr18">Dashboard de [Tema]</a></strong></td>
+<td><strong><a href="https://github.com/Mleandr18/projeto-2">Dashboard de [Tema]</a></strong></td>
 <td>Painel interativo com KPIs e filtros dinâmicos, construído para responder perguntas de negócio reais.</td>
 <td>SQL · Power BI</td>
 </tr>
 <tr>
-<td><strong><a href="https://github.com/Mleandr18">Primeiro Modelo Preditivo</a></strong></td>
+<td><strong><a href="https://github.com/Mleandr18/projeto-3">Primeiro Modelo Preditivo</a></strong></td>
 <td>Modelo de classificação/regressão simples, com foco em entender o pipeline completo — não só em acertar a métrica.</td>
 <td>Python · Scikit-learn</td>
 </tr>
 <tr>
-<td><strong><a href="https://github.com/Mleandr18">Mini Pipeline de ETL</a></strong></td>
+<td><strong><a href="https://github.com/Mleandr18/projeto-4">Mini Pipeline de ETL</a></strong></td>
 <td>Extração, transformação e carga de dados entre fontes diferentes, simulando um cenário real de engenharia de dados.</td>
 <td>Python · SQL · Docker</td>
 </tr>
@@ -121,7 +121,7 @@ Aqui no GitHub você vai encontrar projetos reais, em progresso constante — se
 
 <br>
 
-[![Ver todos os repositórios](https://img.shields.io/badge/Ver_todos_os_repositórios-0A0F1E?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/SEU_USUARIO?tab=repositories)
+[![Ver todos os repositórios](https://img.shields.io/badge/Ver_todos_os_repositórios-0A0F1E?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/Mleandr18?tab=repositories)
 
 </div>
 
@@ -159,12 +159,12 @@ Aqui no GitHub você vai encontrar projetos reais, em progresso constante — se
 
 ### Atividade
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=transparent&hide_border=true&stroke=00D4FF&ring=7C3AED&fire=00D4FF&currStreakLabel=00D4FF&background=00000000" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=00D4FF&text_color=94A3B8&bg_color=00000000" width="38%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mleandr18&theme=transparent&hide_border=true&stroke=00D4FF&ring=7C3AED&fire=00D4FF&currStreakLabel=00D4FF&background=00000000" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mleandr18&layout=compact&theme=transparent&hide_border=true&title_color=00D4FF&text_color=94A3B8&bg_color=00000000" width="38%"/>
 
 <br><br>
 
-<img src="https://ghchart.rshah.org/00D4FF/SEU_USUARIO" width="90%"/>
+<img src="https://ghchart.rshah.org/00D4FF/Mleandr18" width="90%"/>
 
 </div>
 
@@ -180,17 +180,11 @@ Aqui no GitHub você vai encontrar projetos reais, em progresso constante — se
 
 Estou aberto a oportunidades, projetos colaborativos e, principalmente, a aprender com quem já está mais adiantado nessa estrada.
 
-<a href="in/marcosleandros" target="_blank">
+<a href="https://www.linkedin.com/in/marcosleandros" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:marcos-leandro@hotmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.kaggle.com/SEU_PERFIL" target="_blank">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-<a href="https://seu-portfolio.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfólio-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
 </a>
 
 </div>
@@ -204,5 +198,8 @@ Estou aberto a oportunidades, projetos colaborativos e, principalmente, a aprend
 </div>
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:0A0F1E&height=100&section=footer" width="100%"/>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:0A0F1E&height=100&section=footer" width="100%"/>
